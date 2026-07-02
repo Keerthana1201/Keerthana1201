@@ -1,10 +1,15 @@
 ## 👋 Hi there! I'm Keerthana P
 
- I'm a B.Tech student specializing in Artificial Intelligence and Data Science.  
- I'm passionate about solving real-world problems using AI, ML, and Data Analytics.  
- I'm currently exploring Data Analysis.  
- I love turning raw data into meaningful insights.   
- Open to collaborating on AI-based projects, data visualization tools, or chatbot systems.  
+ Artificial Intelligence and Data Science graduate with a strong interest in building intelligent, data-driven solutions for real-world problems.
+
+Passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Generative AI.
+
+Currently expanding my expertise in Data Analytics by transforming raw data into meaningful insights through analysis and visualization.
+
+Interested in developing AI-powered applications, predictive models, and retrieval-augmented generation (RAG) systems.
+
+Open to collaborating on AI, Machine Learning, Data Analytics, and Generative AI projects while continuously learning and exploring emerging technologies.
+
 
  How to reach me: linkedin.com/in/keerthanapadmakumar
 
